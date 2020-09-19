@@ -84,8 +84,8 @@ The CRF implementation uses following features:
 
 # Contact details(group members):
 
-- subham raj(iit2016010),7992256326
+- subham raj(iit2016010)
 
-- ankit kumar(iit2016024),8229880027
+- ankit kumar(iit2016024)
 
-- deepanshu goyal(iit2016037),7571848905
+- deepanshu goyal(iit2016037)
